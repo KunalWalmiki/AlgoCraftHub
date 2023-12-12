@@ -8,11 +8,13 @@ int convertDecimalToBinary(int n) {
 
     while( n > 0) {
 
-        int remainder = n % 2;
+        // int remainder = n % 2; slower approach as modules operator take more time to compute
+
+        int remainder = n & 1; // faster approach 
 
         binaryNo = remainder * pow(10, i++) + binaryNo;
 
-        n = n / 2;
+        n = n >> 1;
     }
 
     return binaryNo;
