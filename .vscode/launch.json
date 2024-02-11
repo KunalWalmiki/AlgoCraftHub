@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/ultimateDSA/Arrays",
-      "program": "c:/ultimateDSA/Arrays/build/Debug/outDebug",
+      "cwd": "c:/ultimateDSA/Recursion",
+      "program": "c:/ultimateDSA/Recursion/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
