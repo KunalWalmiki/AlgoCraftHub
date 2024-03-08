@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/ultimateDSA/Sorting",
-      "program": "c:/ultimateDSA/Sorting/build/Debug/outDebug",
+      "cwd": "c:/ultimateDSA/Arrays/basic",
+      "program": "c:/ultimateDSA/Arrays/basic/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
