@@ -1,0 +1,1 @@
+ leftRow, leftLowerDiagonal, leftUpperDiagonal
